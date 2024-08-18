@@ -1,8 +1,49 @@
-# React + Vite
+<div align = "center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img height=100px src= "https://res.cloudinary.com/dnqsoxydq/image/upload/v1713942236/JSCOP6.0/jscop6logo2_ubjyj8.png">
+</div>
 
-Currently, two official plugins are available:
+<div align = "center">
+<a href="https://twitter.com/jiitoptica"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href="https://www.linkedin.com/company/jiitopticachapter/mycompany/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href="https://www.facebook.com/jiitopticachapter/"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href="https://www.instagram.com/jiitopticachapter"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+</div>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+---
+# JSCOP 6.0 - OFFICIAL WEBSITE
+## Purpose
+This website has been built to effectively share all information regarding our annual flagship event, JSCOP, to all the students. This website also provides the in-depth details of all the actvities conducted in the event.
+
+## Technologies Used
+- React
+
+ ## Packages Used
+- framer-motion
+- react-bootstrap
+- react-image-gallery
+- react-router-dom
+- react-icons
+- react-loading-skeleton
+- slick-carousel
+- tsparticles
+
+## View The Project
+The website is up and running on [www.jscop.jiitopticachapter.in](https://jscop.jiitopticachapter.com/)
+
+---
+
+## Mentors
+- [Harsh Sharma](https://github.com/HarshSharma20503)
+- [Kaavya Baranwal](https://github.com/kaavyabaranwal)
+
+## Contributors
+- [Rajat Bhati](https://github.com/Rajatt09)
+- [Aryan Goyal](https://github.com/AryanAg08)
+- [Yash Mittal](https://github.com/Geekyash10)
+- [Mehul Bansal](https://github.com/mehul1409)
+- [Rishika Aggarwal](https://github.com/rishika-on-git)
+- [Teesha](https://github.com/teesha17)
+- [Krishna Deol](https://github.com/Krishnadeol)
+
